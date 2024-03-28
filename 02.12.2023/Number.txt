@@ -1,0 +1,8 @@
+var a=Number(prompt("Enter the Number"));
+if(a>=200 && a<=500)
+{
+	console.log("The given Range is 200 between 500");
+}
+else{
+	console.log("The given Range is not 200 between 500");
+}

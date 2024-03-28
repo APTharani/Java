@@ -1,0 +1,28 @@
+body{
+	
+	background-color:Orange;
+	font-size:25px;
+	
+}
+input[type=button]{
+	padding:10px 45px;
+	font-size:20px;
+	border-radius:18px;
+	background-color:cyan;
+	color:red;
+}
+input[type=text]{
+	padding:8px 20px;
+	font-size:15px;
+	border-radius:8px;
+}
+input[type=Sum]{
+	padding:8px 5px;
+	font-size:15px;
+	border-radius:25px;
+}
+table,tr,td{
+	border-collapse:collapse;
+	border:5px solid;
+	padding:8px;
+}
